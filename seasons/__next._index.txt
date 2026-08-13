@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[76511,["/_next/static/chunks/41lsp9dh4gxe3.js","/_next/static/chunks/14mrh2-p_w84d.js"],"SiteShell"]
-3:I[39756,["/_next/static/chunks/41lsp9dh4gxe3.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-4:I[37457,["/_next/static/chunks/41lsp9dh4gxe3.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-5:I[17873,["/_next/static/chunks/41lsp9dh4gxe3.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/3t7c61gcfmg9m.js","/_next/static/chunks/3lzq9tds0weh3.js"],"default"]
+2:I[76511,["/_next/static/chunks/0k067_8ornhdt.js","/_next/static/chunks/14mrh2-p_w84d.js"],"SiteShell"]
+3:I[39756,["/_next/static/chunks/0k067_8ornhdt.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/_next/static/chunks/0k067_8ornhdt.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[17873,["/_next/static/chunks/0k067_8ornhdt.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/3t7c61gcfmg9m.js","/_next/static/chunks/3lzq9tds0weh3.js"],"default"]
 :HL["/_next/static/chunks/0jcuqbe6npqlb.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0jcuqbe6npqlb.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/41lsp9dh4gxe3.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true}]],["$","html",null,{"lang":"es","className":"h-full","children":["$","body",null,{"className":"min-h-full antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L5",null,{}],[]]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"aJvQLGLxPrloe4k8i60_-"}
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0jcuqbe6npqlb.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0k067_8ornhdt.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true}]],["$","html",null,{"lang":"es","className":"h-full","children":["$","body",null,{"className":"min-h-full antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L5",null,{}],[]]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"CQcmQOnQFqYd0pN7yjBP5"}
