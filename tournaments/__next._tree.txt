@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/0c5dnd_mdx2uu.css","style"]
-:HL["/_next/static/chunks/3l0rxzyiqwwch.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"tournaments","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"apWOoZNb0tZ9PkfcF3ir_"}
+:HL["/_next/static/chunks/18yj4xqk3wxc4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"tournaments","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"2BP870FuKQ-oKD0iWvZwj"}
