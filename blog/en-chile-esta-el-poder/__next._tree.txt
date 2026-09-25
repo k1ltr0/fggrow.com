@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/0c5dnd_mdx2uu.css","style"]
+:HL["/_next/static/chunks/25-zd___js1re.css","style"]
+:HL["https://pbs.twimg.com/media/HOzSf7zWEAAKFfB.jpg","image"]
+:HL["https://pbs.twimg.com/media/G1-brmvWsAAoe6E.jpg","image"]
+:HL["https://ladyixel.com/wp-content/uploads/2026/08/GzEZoMeXoAAdWS2-1024x576.jpeg","image"]
+:HL["https://ladyixel.com/wp-content/uploads/2026/08/F6kIxXaWwAAGeRZ.jpeg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"en-chile-esta-el-poder","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"YY2rX-RV3NIFdsQoI0tU5"}
